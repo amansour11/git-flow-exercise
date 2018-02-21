@@ -14,15 +14,11 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
-### [John Lemon](writer/john-lemon.md) 
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
-
 ### [Madame Croque](writer/madame-croque.md) 
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
-
+<<<<<<< HEAD
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
 [Quick Oatmeal Pancakes](recipe/feb/Quick-Oatmeal-Pancakes.md)
@@ -41,4 +37,3 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) 
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
-
